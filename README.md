@@ -5,7 +5,7 @@ You'll probably have to login in the docker CLI with `docker login -u your_usern
 Then run this 
 
 ```
-git clone 
+git clone https://github.com/kay-gg/test
 cd ./test
 docker compose up --build
 ```
